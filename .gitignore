@@ -1,3 +1,7 @@
+# Custom ignores
+meteor.zip
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
