@@ -2,6 +2,12 @@
 meteor.zip
 data/
 
+# Pour jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.pyc
+*.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
